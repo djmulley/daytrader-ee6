@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Oct 19 12:51:03 EDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-015f-358b-9cc0-00000f3cb308 
+on database directory /Users/dmulley@us.ibm.com/sample.daytrader3-master/daytrader3-ee6-wlpcfg/shared/resources/data/tradedb with class loader com.ibm.ws.classloading.internal.AppClassLoader@7b35e4f5 
+Loaded from file:/Users/dmulley@us.ibm.com/sample.daytrader3-master/daytrader3-ee6-wlpcfg/shared/resources/Daytrader3_SampleDerbyLibs/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/Users/dmulley@us.ibm.com/sample.daytrader3-master/daytrader3-ee6-wlpcfg/servers/daytrader3_Sample
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Oct 19 12:51:04 EDT 2017:
+Shutting down instance a816c00e-015f-358b-9cc0-00000f3cb308 on database directory /Users/dmulley@us.ibm.com/sample.daytrader3-master/daytrader3-ee6-wlpcfg/shared/resources/data/tradedb with class loader com.ibm.ws.classloading.internal.AppClassLoader@7b35e4f5 
+----------------------------------------------------------------
+Thu Oct 19 12:51:05 EDT 2017: Shutting down Derby engine
+----------------------------------------------------------------
